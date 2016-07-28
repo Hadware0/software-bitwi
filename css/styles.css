@@ -1,0 +1,76 @@
+/*========= GLOBAL STYLES======== */
+
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif|Arimo:700,400);
+
+/*=====FONTS=====*/
+
+/*font-family: 'Droid Serif', serif;
+font-family: 'Arimo', sans-serif;*/
+
+
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #fff;
+    font-family: 'Source Sans Pro',Trebuchet MS,sans-serif;
+    font-size: 16px;   
+}
+
+h1,h2,h3{
+    margin: 0px;
+    padding: 0px;
+    color: #00b000;
+}
+
+p{
+    margin:  15px 0px 15px 0px; /*margin every paragraph*/
+}
+
+
+b,strong{      
+    color: #00b000;
+    
+}
+
+a{          /*change the color y decoration every a tag*/
+    color: #00b000;
+    text-decoration: none;
+
+}
+
+a:hover{    /*hover every a tags*/
+    color:#ffb733;
+}
+
+
+
+/*=========HEADER STYLES=========*/
+
+header{
+    background-color: #008388;
+    padding: 5px 0px;
+}
+.primerdiv{
+    width: 900px;
+    margin: 20px auto;
+}
+
+#innerprimerdiv{
+    padding: 5px 0px;
+    background-color: #fdf8f8;
+}
+
+#logo a{
+    color: #00b000;
+}
+#logo a:hover{
+    color: #ffb733;    
+}
+
+
+
